@@ -1,5 +1,5 @@
 ɱƦ. ҜǻɍßØƝƈħɨҜ@DESKTOP-79JJA0I MINGW64 ~ (master)
-$ touch NewDocument.txt
+$ touch readme.txt
 
 ɱƦ. ҜǻɍßØƝƈħɨҜ@DESKTOP-79JJA0I MINGW64 ~ (master)
 $ git init
